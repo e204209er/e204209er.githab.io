@@ -1,0 +1,18 @@
+body{
+    background-image: url(../images/03.jpg);
+        background-attachment: fixed;
+    
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+        
+}
+h2{
+    color: #ff0000;
+    background-color:aqua;
+    text-align: center;
+}
+h3{color: green;}
+p{color:darkred;}
