@@ -1,0 +1,24 @@
+body{
+    background-image: url(../eximages/002.jpg);
+        background-attachment: fixed;
+    
+}
+h1{
+    color: white;
+    background-color: red;
+    text-align: center;
+        
+}
+table{
+    background-color: greenyellow
+}
+h2{ color: gold;
+    background-color: black;
+    text-align: center;
+        
+    
+}
+ol{
+    background-image: url(../eximages/003.jpg);
+        background-attachment: fixed; 
+}
