@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/06.jpg);
+        background-attachment: fixed;
+    
+}
+
+h1.class{
+    text-align: center;
+    background-color:blue;
+    color:red;
+    
+}
+.getta{
+     text-align: center;
+    background-color:gold;
+    color:black;
+}
