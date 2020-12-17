@@ -1,0 +1,52 @@
+div.title{
+    width:1000px;
+    height: 40px;
+   background-color:yellow;
+    margin-bottom:20px; 
+}
+div.naiyou{
+   width:1000px;
+   height:320px; 
+  font-size: 0;
+    background-color: aqua
+}
+span.menu{
+    display: inline-block;
+    vertical-align: top;
+    width:250px;
+    height:320px;
+    background-color: greenyellow;
+}
+div.menuitem1{
+   width: 250px;
+    height:100px;
+    background-color: orange;
+}
+div.menuitem2{
+    margin-top: 10px;
+   width: 250px;
+    height:100px;
+    text-align: center;
+    background-color: orange;
+}
+.iroiro{
+  display: inline-block;
+  vertical-align: top;
+    width:700px;
+    height:320px;
+    margin-left:50px;
+    background-color: black;
+}
+div.futter{
+    width:1000px;
+    height: 40px;
+    background-color:red;
+    margin-top: 20px;
+     text-align: right;
+}
+.bunsyou{
+    width:700px;
+    height: 20px;
+    margin-top: 300px;
+    background-color: gold;
+}
